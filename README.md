@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b19bhupendra
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently working as software engineer
 
 <!---
 b19bhupendra/b19bhupendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
